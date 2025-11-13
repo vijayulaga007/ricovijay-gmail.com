@@ -1,0 +1,21 @@
+
+{
+  "short_name": "AI Editor",
+  "name": "Nano Banana AI Editor",
+  "icons": [
+    {
+      "src": "https://storage.googleapis.com/aistudio-ux-team-public/sdk-pro-app/icons/image_edit_auto_192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://storage.googleapis.com/aistudio-ux-team-public/sdk-pro-app/icons/image_edit_auto_512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#111827",
+  "background_color": "#111827"
+}

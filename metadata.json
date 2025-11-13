@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI Image Editor",
+  "description": "An AI-powered image editor that allows users to modify images using simple text prompts. Leveraging the Gemini 2.5 Flash Image model, you can add filters, remove objects, and transform your photos with ease.",
+  "requestFramePermissions": []
+}
